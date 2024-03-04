@@ -1,0 +1,19 @@
+.third{
+    height: 90px;
+    width: 728px;
+    background-image: url('../asset/Abans_Countdown_300x250_728x90.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  
+  
+  .img{
+    width: fit-content;
+    padding-left: 217px;
+    padding-top: 20px;
+  }
+  
+  
+  

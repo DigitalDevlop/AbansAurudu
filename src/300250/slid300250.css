@@ -1,0 +1,19 @@
+.FirstSemiFinal{
+    height: 250px;
+    width: 300px;
+    background-image: url('../asset/Abans_Countdown_300x250_300x250.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  
+  
+  .clockMaliban{
+    padding-top: 120px;
+    width: fit-content;
+    padding-left: 30px;
+  }
+  
+  
+  
